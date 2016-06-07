@@ -1,0 +1,38 @@
+
+********************************
+
+
+*Top****************************
+
+       indices                          names     value
+rank                                                   
+1     (35, 36)    (MOM'S Felipe, MOM'S Joyce)  0.907953
+2     (34, 36)     (MOM'S Diane, MOM'S Joyce)  0.602473
+3     (34, 35)    (MOM'S Diane, MOM'S Felipe)  0.547017
+4     (36, 37)    (MOM'S Joyce, MOM'S Sandra)  0.466475
+5     (35, 37)   (MOM'S Felipe, MOM'S Sandra)  0.423537
+6     (25, 38)  (IMAGINARY BOYFRIENDS, MOUSE)  0.393794
+7     (38, 42)           (MOUSE, RILEY VOICE)  0.346140
+8     (27, 46)                (Joyce, Sandra)  0.316408
+9     (24, 38)   (IMAGINARY BOYFRIEND, MOUSE)  0.315543
+10    (19, 28)   (GUM MEMORY, MALE FORGETTER)  0.313841
+
+*Bottom*************************
+
+      indices                                             names  value
+rank                                                                  
+1      (0, 1)          (ABSTRACT WORKER #1, ABSTRACT WORKER #2)      0
+2      (0, 4)  (ABSTRACT WORKER #1, BOYFRIEND GENERATOR WORKER)      0
+3      (0, 6)               (ABSTRACT WORKER #1, CLOUD WITNESS)      0
+4     (0, 11)    (ABSTRACT WORKER #1, DREAM PRODUCTIONS COP #1)      0
+5     (0, 18)                  (ABSTRACT WORKER #1, GIRL ALARM)      0
+6     (0, 19)                  (ABSTRACT WORKER #1, GUM MEMORY)      0
+7     (0, 20)            (ABSTRACT WORKER #1, HELICOPTER PILOT)      0
+8     (0, 23)       (ABSTRACT WORKER #1, HOUSE OF CARDS WORKER)      0
+9     (0, 24)         (ABSTRACT WORKER #1, IMAGINARY BOYFRIEND)      0
+10    (0, 25)        (ABSTRACT WORKER #1, IMAGINARY BOYFRIENDS)      0
+
+********************************
+
+Output files saved in: /Users/Steven/Documents/Academics/3_Graduate School/2014-2015_NU/MSIA_490_Text_Mining/hw/hw4
+

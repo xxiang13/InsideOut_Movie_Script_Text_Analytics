@@ -1,0 +1,67 @@
+scene1,scene2,boolean_similarity
+Back to Headquarters,Back to Headquarters,1.0
+Back to Headquarters,Dinner Argument,0.270339804553
+Back to Headquarters,Dream Productions,0.292297627527
+Back to Headquarters,Fall in Memory Dump,0.334606817755
+Back to Headquarters,Hockey Tryouts,0.300322773033
+Back to Headquarters,Meet Bing Bong,0.324634108478
+Back to Headquarters,Moving to San Francisco,0.315549368689
+Back to Headquarters,Riley is Back,0.248533711693
+Back to Headquarters,Riley is Born,0.278628938219
+Back to Headquarters,Riley's First Day,0.300041330854
+Back to Headquarters,Try to escape from Long-Term Memory,0.288990297855
+Dinner Argument,Dinner Argument,1.0
+Dinner Argument,Dream Productions,0.250626818087
+Dinner Argument,Fall in Memory Dump,0.285152733306
+Dinner Argument,Hockey Tryouts,0.307480358782
+Dinner Argument,Meet Bing Bong,0.225907668081
+Dinner Argument,Moving to San Francisco,0.281690802147
+Dinner Argument,Riley is Back,0.298928265823
+Dinner Argument,Riley is Born,0.294173361367
+Dinner Argument,Riley's First Day,0.278148581965
+Dinner Argument,Try to escape from Long-Term Memory,0.237110344893
+Dream Productions,Dream Productions,1.0
+Dream Productions,Fall in Memory Dump,0.354144123487
+Dream Productions,Hockey Tryouts,0.315003467024
+Dream Productions,Meet Bing Bong,0.354902719435
+Dream Productions,Moving to San Francisco,0.349844594032
+Dream Productions,Riley is Back,0.286958517979
+Dream Productions,Riley is Born,0.28277283163
+Dream Productions,Riley's First Day,0.334356980737
+Dream Productions,Try to escape from Long-Term Memory,0.316602910188
+Fall in Memory Dump,Fall in Memory Dump,1.0
+Fall in Memory Dump,Hockey Tryouts,0.353903781333
+Fall in Memory Dump,Meet Bing Bong,0.391689617903
+Fall in Memory Dump,Moving to San Francisco,0.364358390415
+Fall in Memory Dump,Riley is Back,0.317881976603
+Fall in Memory Dump,Riley is Born,0.314845262196
+Fall in Memory Dump,Riley's First Day,0.368066202895
+Fall in Memory Dump,Try to escape from Long-Term Memory,0.373625819241
+Hockey Tryouts,Hockey Tryouts,1.0
+Hockey Tryouts,Meet Bing Bong,0.316320039487
+Hockey Tryouts,Moving to San Francisco,0.32786877525
+Hockey Tryouts,Riley is Back,0.350927165694
+Hockey Tryouts,Riley is Born,0.310185995513
+Hockey Tryouts,Riley's First Day,0.34066492401
+Hockey Tryouts,Try to escape from Long-Term Memory,0.328844267884
+Meet Bing Bong,Meet Bing Bong,1.0
+Meet Bing Bong,Moving to San Francisco,0.363977851995
+Meet Bing Bong,Riley is Back,0.281338138821
+Meet Bing Bong,Riley is Born,0.322928868334
+Meet Bing Bong,Riley's First Day,0.322354718393
+Meet Bing Bong,Try to escape from Long-Term Memory,0.329107822841
+Moving to San Francisco,Moving to San Francisco,1.0
+Moving to San Francisco,Riley is Back,0.317811804541
+Moving to San Francisco,Riley is Born,0.355930935835
+Moving to San Francisco,Riley's First Day,0.357215451413
+Moving to San Francisco,Try to escape from Long-Term Memory,0.368884034251
+Riley is Back,Riley is Back,1.0
+Riley is Back,Riley is Born,0.320880485094
+Riley is Back,Riley's First Day,0.356686320021
+Riley is Back,Try to escape from Long-Term Memory,0.293201263865
+Riley is Born,Riley is Born,1.0
+Riley is Born,Riley's First Day,0.339122013022
+Riley is Born,Try to escape from Long-Term Memory,0.326722403885
+Riley's First Day,Riley's First Day,1.0
+Riley's First Day,Try to escape from Long-Term Memory,0.335691713046
+Try to escape from Long-Term Memory,Try to escape from Long-Term Memory,1.0

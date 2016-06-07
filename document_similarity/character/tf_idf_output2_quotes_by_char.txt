@@ -1,0 +1,38 @@
+
+********************************
+
+
+*Top****************************
+
+     indices               names     value
+rank                                      
+1     (0, 1)     (Joyce, Sandra)  0.316408
+2     (0, 3)  (Joyce, BING BONG)  0.298388
+3     (2, 5)     (Felipe, Diane)  0.286024
+4     (4, 5)     (Angelo, Diane)  0.239456
+5     (1, 2)    (Sandra, Felipe)  0.237966
+6     (2, 4)    (Felipe, Angelo)  0.237360
+7     (0, 4)     (Joyce, Angelo)  0.234836
+8     (0, 2)     (Joyce, Felipe)  0.233247
+9     (6, 8)          (MOM, DAD)  0.215146
+10    (0, 5)      (Joyce, Diane)  0.201943
+
+*Bottom*************************
+
+     indices                names     value
+rank                                       
+1     (3, 7)   (BING BONG, RILEY)  0.124969
+2     (3, 8)     (BING BONG, DAD)  0.130077
+3     (1, 8)        (Sandra, DAD)  0.131088
+4     (3, 6)     (BING BONG, MOM)  0.131180
+5     (4, 7)      (Angelo, RILEY)  0.136861
+6     (5, 7)       (Diane, RILEY)  0.137559
+7     (2, 8)        (Felipe, DAD)  0.140409
+8     (4, 6)        (Angelo, MOM)  0.144122
+9     (3, 4)  (BING BONG, Angelo)  0.144363
+10    (1, 6)        (Sandra, MOM)  0.145945
+
+********************************
+
+Output files saved in: /Users/Steven/Documents/Academics/3_Graduate School/2014-2015_NU/MSIA_490_Text_Mining/hw/hw4
+

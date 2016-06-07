@@ -1,0 +1,12 @@
+,Back to Headquarters,Dinner Argument,Dream Productions,Fall in Memory Dump,Hockey Tryouts,Meet Bing Bong,Moving to San Francisco,Riley is Back,Riley is Born,Riley's First Day,Try to escape from Long-Term Memory
+Back to Headquarters,1.000,0.038,0.055,0.088,0.036,0.102,0.072,0.028,0.043,0.051,0.055
+Dinner Argument,0.038,1.000,0.039,0.048,0.041,0.035,0.059,0.055,0.065,0.054,0.032
+Dream Productions,0.055,0.039,1.000,0.094,0.057,0.105,0.096,0.037,0.051,0.079,0.068
+Fall in Memory Dump,0.088,0.048,0.094,1.000,0.081,0.130,0.094,0.040,0.065,0.099,0.104
+Hockey Tryouts,0.036,0.041,0.057,0.081,1.000,0.070,0.068,0.058,0.048,0.058,0.058
+Meet Bing Bong,0.102,0.035,0.105,0.130,0.070,1.000,0.105,0.043,0.077,0.064,0.088
+Moving to San Francisco,0.072,0.059,0.096,0.094,0.068,0.105,1.000,0.064,0.107,0.094,0.107
+Riley is Back,0.028,0.055,0.037,0.040,0.058,0.043,0.064,1.000,0.044,0.073,0.041
+Riley is Born,0.043,0.065,0.051,0.065,0.048,0.077,0.107,0.044,1.000,0.079,0.067
+Riley's First Day,0.051,0.054,0.079,0.099,0.058,0.064,0.094,0.073,0.079,1.000,0.067
+Try to escape from Long-Term Memory,0.055,0.032,0.068,0.104,0.058,0.088,0.107,0.041,0.067,0.067,1.000

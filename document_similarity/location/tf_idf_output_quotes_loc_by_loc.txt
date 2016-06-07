@@ -1,0 +1,38 @@
+
+********************************
+
+
+*Top****************************
+
+       indices                                          names     value
+rank                                                                   
+1     (10, 21)            (HEADQUARTERS, SAN FRANCISCO HOUSE)  0.265887
+2     (10, 14)               (HEADQUARTERS, LONG-TERM MEMORY)  0.255257
+3     (14, 15)                (LONG-TERM MEMORY, MEMORY DUMP)  0.216443
+4     (15, 16)                      (MEMORY DUMP, MIND WORLD)  0.179192
+5     (14, 21)        (LONG-TERM MEMORY, SAN FRANCISCO HOUSE)  0.174633
+6     (23, 24)                   (STAGE B, SUBCONSCIOUS CAVE)  0.173002
+7      (0, 14)  (ABSTRACT THOUGHT BUILDING, LONG-TERM MEMORY)  0.170149
+8       (1, 5)    (BLACK., DO NOT ENTER WHEN LIGHT FLASHING.)  0.168037
+9     (11, 21)             (HOCKEY RINK, SAN FRANCISCO HOUSE)  0.165776
+10    (13, 14)            (IMAGINATIONLAND, LONG-TERM MEMORY)  0.162941
+
+*Bottom*************************
+
+      indices                                              names  value
+rank                                                                   
+1      (1, 8)                                   (BLACK., FALLS!)      0
+2     (1, 30)                            (BLACK., TRAIN STATION)      0
+3      (2, 8)                                      (BUS, FALLS!)      0
+4     (2, 26)                         (BUS, SUBCONSCIOUS STAIRS)      0
+5      (5, 8)        (DO NOT ENTER WHEN LIGHT FLASHING., FALLS!)      0
+6     (5, 12)      (DO NOT ENTER WHEN LIGHT FLASHING., HOSPITAL)      0
+7     (5, 26)  (DO NOT ENTER WHEN LIGHT FLASHING., SUBCONSCIO...      0
+8     (6, 12)                      (DREAM PRODUCTIONS, HOSPITAL)      0
+9      (7, 8)                    (EXT. SCHOOL - MORNING, FALLS!)      0
+10    (8, 11)                              (FALLS!, HOCKEY RINK)      0
+
+********************************
+
+Output files saved in: /Users/Steven/Documents/Academics/3_Graduate School/2014-2015_NU/MSIA_490_Text_Mining/hw/hw4
+

@@ -1,0 +1,11 @@
+rank,indices,names,value
+1,"(1, 5)","('Dinner Argument', 'Meet Bing Bong')",0.225907668081
+2,"(1, 10)","('Dinner Argument', 'Try to escape from Long-Term Memory')",0.237110344893
+3,"(0, 7)","('Back to Headquarters', 'Riley is Back')",0.248533711693
+4,"(1, 2)","('Dinner Argument', 'Dream Productions')",0.250626818087
+5,"(0, 1)","('Back to Headquarters', 'Dinner Argument')",0.270339804553
+6,"(1, 9)","('Dinner Argument', ""Riley's First Day"")",0.278148581965
+7,"(0, 8)","('Back to Headquarters', 'Riley is Born')",0.278628938219
+8,"(5, 7)","('Meet Bing Bong', 'Riley is Back')",0.281338138821
+9,"(1, 6)","('Dinner Argument', 'Moving to San Francisco')",0.281690802147
+10,"(2, 8)","('Dream Productions', 'Riley is Born')",0.28277283163

@@ -1,0 +1,56 @@
+topic,scene,probabilty
+Topic 0,Back to Headquarters,0.0155025553663
+Topic 0,Dinner Argument,0.000243902439024
+Topic 0,Dream Productions,0.0389687235841
+Topic 0,Fall in Memory Dump,0.0734713076199
+Topic 0,Hockey Tryouts,0.0390593047035
+Topic 0,Meet Bing Bong,0.0416470588235
+Topic 0,Moving to San Francisco,0.0357098186366
+Topic 0,Riley is Back,0.0211627906977
+Topic 0,Riley is Born,0.0804545454545
+Topic 0,Riley's First Day,0.128263473054
+Topic 0,Try to escape from Long-Term Memory,0.0766055045872
+Topic 1,Back to Headquarters,0.197785349233
+Topic 1,Dinner Argument,0.000243902439024
+Topic 1,Dream Productions,0.110819949281
+Topic 1,Fall in Memory Dump,0.0537158984008
+Topic 1,Hockey Tryouts,0.0472392638037
+Topic 1,Meet Bing Bong,0.0502745098039
+Topic 1,Moving to San Francisco,0.0156973108193
+Topic 1,Riley is Back,0.0141860465116
+Topic 1,Riley is Born,0.035
+Topic 1,Riley's First Day,0.0659880239521
+Topic 1,Try to escape from Long-Term Memory,0.0659021406728
+Topic 3,Back to Headquarters,0.20800681431
+Topic 3,Dinner Argument,0.258780487805
+Topic 3,Dream Productions,0.227472527473
+Topic 3,Fall in Memory Dump,0.170366886171
+Topic 3,Hockey Tryouts,0.28445807771
+Topic 3,Meet Bing Bong,0.296549019608
+Topic 3,Moving to San Francisco,0.243964978111
+Topic 3,Riley is Back,0.276976744186
+Topic 3,Riley is Born,0.18803030303
+Topic 3,Riley's First Day,0.210898203593
+Topic 3,Try to escape from Long-Term Memory,0.227981651376
+Topic 7,Back to Headquarters,0.0427597955707
+Topic 7,Dinner Argument,0.149024390244
+Topic 7,Dream Productions,0.0119188503804
+Topic 7,Fall in Memory Dump,0.0631232361242
+Topic 7,Hockey Tryouts,0.0513292433538
+Topic 7,Meet Bing Bong,7.8431372549e-05
+Topic 7,Moving to San Francisco,0.106378986867
+Topic 7,Riley is Back,0.160697674419
+Topic 7,Riley is Born,0.100151515152
+Topic 7,Riley's First Day,0.0276646706587
+Topic 7,Try to escape from Long-Term Memory,0.018501529052
+Topic 17,Back to Headquarters,0.165417376491
+Topic 17,Dinner Argument,0.153902439024
+Topic 17,Dream Productions,0.126880811496
+Topic 17,Fall in Memory Dump,0.201411100659
+Topic 17,Hockey Tryouts,0.112678936605
+Topic 17,Meet Bing Bong,0.110666666667
+Topic 17,Moving to San Francisco,0.138273921201
+Topic 17,Riley is Back,0.0816279069767
+Topic 17,Riley is Born,0.136515151515
+Topic 17,Riley's First Day,0.155808383234
+Topic 17,Try to escape from Long-Term Memory,0.133180428135

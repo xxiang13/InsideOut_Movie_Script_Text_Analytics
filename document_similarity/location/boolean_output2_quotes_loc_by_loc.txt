@@ -1,0 +1,38 @@
+
+********************************
+
+
+*Top****************************
+
+      indices                                          names     value
+rank                                                                  
+1      (0, 2)            (HEADQUARTERS, SAN FRANCISCO HOUSE)  0.386340
+2      (0, 1)               (HEADQUARTERS, LONG-TERM MEMORY)  0.380085
+3     (8, 10)                      (MEMORY DUMP, MIND WORLD)  0.358507
+4      (1, 8)                (LONG-TERM MEMORY, MEMORY DUMP)  0.353442
+5      (2, 6)             (SAN FRANCISCO HOUSE, HOCKEY RINK)  0.332118
+6      (1, 2)        (LONG-TERM MEMORY, SAN FRANCISCO HOUSE)  0.322930
+7      (2, 8)             (SAN FRANCISCO HOUSE, MEMORY DUMP)  0.313467
+8      (7, 9)                   (SUBCONSCIOUS CAVE, STAGE B)  0.310697
+9      (1, 3)            (LONG-TERM MEMORY, IMAGINATIONLAND)  0.307572
+10     (1, 4)  (LONG-TERM MEMORY, ABSTRACT THOUGHT BUILDING)  0.290517
+
+*Bottom*************************
+
+       indices                                            names     value
+rank                                                                     
+1     (11, 12)          (MOM'S HEADQUARTERS, SUBCONSCIOUS GATE)  0.089861
+2     (12, 13)          (SUBCONSCIOUS GATE, DAD'S HEADQUARTERS)  0.093876
+3      (4, 13)  (ABSTRACT THOUGHT BUILDING, DAD'S HEADQUARTERS)  0.098595
+4     (12, 14)             (SUBCONSCIOUS GATE, MINNESOTA HOUSE)  0.122449
+5      (7, 13)          (SUBCONSCIOUS CAVE, DAD'S HEADQUARTERS)  0.123623
+6      (3, 13)            (IMAGINATIONLAND, DAD'S HEADQUARTERS)  0.131708
+7      (9, 13)                    (STAGE B, DAD'S HEADQUARTERS)  0.137568
+8      (0, 12)                (HEADQUARTERS, SUBCONSCIOUS GATE)  0.138067
+9     (13, 14)            (DAD'S HEADQUARTERS, MINNESOTA HOUSE)  0.141225
+10     (1, 14)              (LONG-TERM MEMORY, MINNESOTA HOUSE)  0.142102
+
+********************************
+
+Output files saved in: /Users/Steven/Documents/Academics/3_Graduate School/2014-2015_NU/MSIA_490_Text_Mining/hw/hw4
+

@@ -1,0 +1,11 @@
+rank,indices,names,value
+1,"(35, 36)","(""MOM'S Felipe"", ""MOM'S Joyce"")",0.957427107756
+2,"(25, 38)","('IMAGINARY BOYFRIENDS', 'MOUSE')",0.707106781187
+3,"(34, 36)","(""MOM'S Diane"", ""MOM'S Joyce"")",0.707106781187
+4,"(34, 35)","(""MOM'S Diane"", ""MOM'S Felipe"")",0.677003200386
+5,"(24, 38)","('IMAGINARY BOYFRIEND', 'MOUSE')",0.612372435696
+6,"(36, 37)","(""MOM'S Joyce"", ""MOM'S Sandra"")",0.591312395989
+7,"(24, 25)","('IMAGINARY BOYFRIEND', 'IMAGINARY BOYFRIENDS')",0.57735026919
+8,"(35, 37)","(""MOM'S Felipe"", ""MOM'S Sandra"")",0.566138517072
+9,"(6, 18)","('CLOUD WITNESS', 'GIRL ALARM')",0.5
+10,"(6, 25)","('CLOUD WITNESS', 'IMAGINARY BOYFRIENDS')",0.5

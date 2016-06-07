@@ -1,0 +1,11 @@
+rank,indices,names,value
+1,"(1, 8)","('BLACK.', 'FALLS!')",0.0
+2,"(1, 30)","('BLACK.', 'TRAIN STATION')",0.0
+3,"(2, 8)","('BUS', 'FALLS!')",0.0
+4,"(2, 26)","('BUS', 'SUBCONSCIOUS STAIRS')",0.0
+5,"(5, 8)","('DO NOT ENTER WHEN LIGHT FLASHING.', 'FALLS!')",0.0
+6,"(5, 12)","('DO NOT ENTER WHEN LIGHT FLASHING.', 'HOSPITAL')",0.0
+7,"(5, 26)","('DO NOT ENTER WHEN LIGHT FLASHING.', 'SUBCONSCIOUS STAIRS')",0.0
+8,"(6, 12)","('DREAM PRODUCTIONS', 'HOSPITAL')",0.0
+9,"(7, 8)","('EXT. SCHOOL - MORNING', 'FALLS!')",0.0
+10,"(8, 11)","('FALLS!', 'HOCKEY RINK')",0.0

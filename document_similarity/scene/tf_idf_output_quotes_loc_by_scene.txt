@@ -1,0 +1,38 @@
+
+********************************
+
+
+*Top****************************
+
+      indices                                              names     value
+rank                                                                      
+1      (3, 5)              (Fall in Memory Dump, Meet Bing Bong)  0.130319
+2      (6, 8)           (Moving to San Francisco, Riley is Born)  0.107317
+3     (6, 10)  (Moving to San Francisco, Try to escape from L...  0.107168
+4      (2, 5)                (Dream Productions, Meet Bing Bong)  0.105156
+5      (5, 6)          (Meet Bing Bong, Moving to San Francisco)  0.104762
+6     (3, 10)  (Fall in Memory Dump, Try to escape from Long-...  0.104407
+7      (0, 5)             (Back to Headquarters, Meet Bing Bong)  0.101883
+8      (3, 9)           (Fall in Memory Dump, Riley's First Day)  0.099254
+9      (2, 6)       (Dream Productions, Moving to San Francisco)  0.095541
+10     (2, 3)           (Dream Productions, Fall in Memory Dump)  0.094432
+
+*Bottom*************************
+
+      indices                                              names     value
+rank                                                                      
+1      (0, 7)              (Back to Headquarters, Riley is Back)  0.027823
+2     (1, 10)  (Dinner Argument, Try to escape from Long-Term...  0.031934
+3      (1, 5)                  (Dinner Argument, Meet Bing Bong)  0.034847
+4      (0, 4)             (Back to Headquarters, Hockey Tryouts)  0.035869
+5      (2, 7)                 (Dream Productions, Riley is Back)  0.037291
+6      (0, 1)            (Back to Headquarters, Dinner Argument)  0.037701
+7      (1, 2)               (Dinner Argument, Dream Productions)  0.038624
+8      (3, 7)               (Fall in Memory Dump, Riley is Back)  0.040092
+9      (1, 4)                  (Dinner Argument, Hockey Tryouts)  0.040642
+10    (7, 10)  (Riley is Back, Try to escape from Long-Term M...  0.041235
+
+********************************
+
+Output files saved in: /Users/Steven/Documents/Academics/3_Graduate School/2014-2015_NU/MSIA_490_Text_Mining/hw/hw4
+
